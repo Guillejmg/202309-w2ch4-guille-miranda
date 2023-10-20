@@ -1,0 +1,12 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Conway Game of Life 🦠 ! Deberás de programar el Juego de la vida de Conway. Un resumen de las reglas:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
