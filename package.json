@@ -7,8 +7,7 @@
     "scripts": {
         "build": "tsc -w",
         "test": "jest --watchAll",
-        "test:coverage": "jest --watchAll --coverage",
-        "test:prod": "jest --watchAll --coverage --watchAll=false --passWithNoTests",
+        "test:pro": "jest --watchAll --coverage --watchAll=false --passWithNoTests",
         "prepare": "husky install",
         "sass": "sass scss:css -w --no-source-map"
     },
